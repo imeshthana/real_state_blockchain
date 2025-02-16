@@ -10,6 +10,7 @@ contract RealEstate is ERC721URIStorage {
 
     constructor() ERC721("Real State", "REAL") {}
 
+    //create properties (NFTs)
     function mint(string memory tokenURI) public returns(uint256){
         _tokenIds.increment();
 
@@ -20,6 +21,7 @@ contract RealEstate is ERC721URIStorage {
         return newItemId;
     }
 
+    //count total properties (NFTs)
     function totalSupply() public view returns(uint256){
         return _tokenIds.current();
     }
