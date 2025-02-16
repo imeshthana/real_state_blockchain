@@ -101,7 +101,7 @@ header {
   background-image: url("./assets/houses.png");
   background-position: center;
   background-size: cover;
-  min-height: 40vh;
+  min-height: 50vh;
 
   position: relative;
 }
@@ -124,7 +124,7 @@ header {
   min-width: 40%;
 
   position: absolute;
-  top: 45%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -157,6 +157,7 @@ header {
   gap: 10px;
   grid-template-columns: repeat(auto-fit, minmax(min(100%, 350px), 1fr));
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .card {
