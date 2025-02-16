@@ -31,9 +31,9 @@ In a separate terminal execute:
 `$ npm run start`
 
 
-### Scenario
+# Scenario
 
-# 1. Seller:
+### 1. Seller:
 The seller is the current owner of the property who is looking to transfer ownership to the buyer. The seller’s responsibilities include:
 
 Listing the property for sale.
@@ -41,7 +41,7 @@ Negotiating the sale price with the buyer.
 Providing disclosures about the property’s condition.
 Signing the necessary documents to transfer ownership.
 
-# 2. Buyer:
+### 2. Buyer:
 The buyer is the person or entity purchasing the property. The buyer’s responsibilities include:
 
 Making an offer on the property.
@@ -49,7 +49,7 @@ Securing financing (if necessary) from a lender.
 Scheduling a home inspection and reviewing the results.
 Signing the necessary documents for the purchase and closing.
 
-# 3. Lender:
+### 3. Lender:
 A lender is typically a bank or financial institution that provides the buyer with a loan (such as a mortgage) to help them purchase the property. The lender’s responsibilities include:
 
 Approving the buyer’s loan application.
@@ -57,14 +57,14 @@ Providing the loan amount to the buyer, typically in exchange for interest.
 Ensuring the property is properly appraised to confirm its value.
 
 
-# 4. Inspector:
+### 4. Inspector:
 The inspector is a third-party professional hired by the buyer to examine the property for potential issues or defects. The inspector’s responsibilities include:
 
 Conducting a detailed inspection of the home’s structure, plumbing, electrical systems, HVAC, and more.
 Reporting any findings to the buyer, who can decide whether to negotiate repairs or walk away from the deal.
 
 
-# 5. Escrow Contract:
+### 5. Escrow Contract:
 An escrow contract is an agreement where a neutral third party (the escrow agent) holds the buyer’s deposit and other necessary funds until all conditions of the contract are met. The escrow agent's responsibilities include:
 
 Holding the buyer’s earnest money deposit securely.
